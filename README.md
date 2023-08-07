@@ -27,22 +27,3 @@ My fluency in English at a native level, combined with my **experience in effect
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radosav-perisic&label=Profile%20views&color=0e75b6&style=flat" alt="radosav-perisic" /> </p>
 
-<h1 align="center">Hi 👋, I'm Radosav</h1>
-<h3 align="center">A passionate React Front End Engineer from Serbia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radosav-perisic&label=Profile%20views&color=0e75b6&style=flat" alt="radosav-perisic" /> </p>
-
-- 🔭 I’m currently working on [Creative Wood](www.creativewood.store)
-
-- 📫 How to reach me **radosavperisic.contact@gmail.com**
-
-- 📄 Know about my experiences [https://www.radosavperisic.pro/Resume.pdf](https://www.radosavperisic.pro/Resume.pdf)
-
-- 🌐 My personal website **https://www.radosavperisic.pro**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/radosav-perisic-58ab96265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radosav-perisic-58ab96265" height="30" width="40" /></a>
-</p>
-
-
