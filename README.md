@@ -16,6 +16,8 @@ My fluency in English at a native level, combined with my **experience in effect
 
 - 🌐 My personal website **https://www.radosavperisic.pro**
 
+- 📅 You're welcome to schedule a call with me using my [Calendly link](calendly.com/radosav-perisic).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/radosav-perisic-58ab96265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radosav-perisic-58ab96265" height="30" width="40" /></a>
