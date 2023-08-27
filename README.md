@@ -16,7 +16,7 @@ My fluency in English at a native level, combined with my **experience in effect
 
 - 🌐 My personal website **https://www.radosavperisic.pro**
 
-- 📅 You're welcome to schedule a call with me using my [Calendly link](calendly.com/radosav-perisic).
+- 📅 You're welcome to schedule a call with me using my [Calendly link](https://calendly.com/radosav-perisic/30-minute-call?back=1&month=2023-08).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
