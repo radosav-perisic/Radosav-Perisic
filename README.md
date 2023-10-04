@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radosav</h1>
 <h3 align="center">A passionate React Front End Engineer from Serbia</h3>
 
-As a proficient and dedicated **React front-end engineer, I bring over 2.5 years of experience in front-end development** to every project I work on. I have a deep understanding of **React** and the latest web development technologies and tools, and I am committed to delivering high-quality work to all of my clients.
+As a proficient and dedicated **React front-end developer, I bring over 2.5 years of experience in front-end development** to every project I work on. I have a deep understanding of **React** and the latest web development technologies and tools, and I am committed to delivering high-quality work to all of my clients.
 I am passionate about my work and I always strive to exceed my client's expectations and ensure that their websites and applications are visually stunning, user-friendly, and meet all of their technical requirements.
 
 My specialty lies in working with **React.js, TypeScript, Tailwind, JavaScript,** and front-end development overall. I have been **working on React projects since 2020** and have consistently delivered successful projects to my clients. I am always eager to learn and grow, constantly seeking out new challenges to enhance my expertise. This allows me to stay up-to-date with the latest industry trends and offer my clients **innovative solutions** for their web development needs.
