@@ -14,7 +14,7 @@ My fluency in English at a native level, combined with my **experience in effect
 
 - 📄 Get to know my journey through front-end development [https://www.radosavperisic.pro/Resume.pdf](https://www.radosavperisic.pro/Resume.pdf)
 
-- 🌐 My personal website **https://www.radosavperisic.pro**
+- 🌐 My personal website **https://www.radosavperisic.xyz**
 
 - 📅 You're welcome to schedule a call with me using my [Calendly link](https://calendly.com/radosav-perisic/30-minute-call?back=1&month=2023-08).
 
