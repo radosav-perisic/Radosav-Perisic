@@ -8,7 +8,7 @@ My specialty lies in working with **React.js, TypeScript, Tailwind, JavaScript,*
 
 My fluency in English at a native level, combined with my **experience in effectively working with remote teams**, allows me to **communicate and contribute to any project seamlessly**. My technical proficiency, comprehensive knowledge, and **team-oriented attitude** make me a valuable asset to any organization seeking to utilize the latest front-end development tools and technologies to accomplish their objectives.
 
-- 🔭 I’m currently working on [Creative Wood](https://github.com/radosav-perisic/creative-wood)
+- 🔭 I’m currently working on [FlexForge](https://github.com/radosav-perisic/flex-forge)
 
 - 📫 How to reach me **radosavperisic.contact@gmail.com**
 
