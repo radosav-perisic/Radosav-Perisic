@@ -12,7 +12,7 @@ My fluency in English at a native level, combined with my **experience in effect
 
 - 📫 How to reach me **radosavperisic.contact@gmail.com**
 
-- 📄 Get to know my journey through front-end development [https://www.radosavperisic.pro/Resume.pdf](https://www.radosavperisic.pro/Resume.pdf)
+- 📄 Get to know my journey through front-end development [https://www.radosavperisic.xyz/Resume.pdf](https://www.radosavperisic.xyz/Resume.pdf)
 
 - 🌐 My personal website **https://www.radosavperisic.xyz**
 
